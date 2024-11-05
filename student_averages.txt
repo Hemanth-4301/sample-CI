@@ -1,0 +1,6 @@
+Student Average Grades:
+========================
+Alice: 85.00
+Bob: 84.00
+Charlie: 92.00
+Diana: 75.00
